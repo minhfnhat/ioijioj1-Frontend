@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Empower productivity and achieve work-life harmony with our innovative solutions tailored for modern professionals.",
+        "title": "Revolutionize Your Worklife"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Empower productivity and achieve work-life harmony with our innovative solutions tailored for modern professionals.",
+        "title": "Revolutionize Your Worklife"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Empower productivity and achieve work-life harmony with our innovative solutions tailored for modern professionals.",
+        "title": "Revolutionize Your Worklife"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empower productivity and achieve work-life harmony with our innovative solutions tailored for modern professionals.",
+        "title": "Revolutionize Your Worklife"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Empower productivity and achieve work-life harmony with our innovative solutions tailored for modern professionals.",
+        "title": "Revolutionize Your Worklife"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empower productivity and achieve work-life harmony with our innovative solutions tailored for modern professionals.",
+        "title": "Revolutionize Your Worklife"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empower productivity and achieve work-life harmony with our innovative solutions tailored for modern professionals.",
+        "title": "Revolutionize Your Worklife"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Empower productivity and achieve work-life harmony with our innovative solutions tailored for modern professionals.",
+        "title": "Revolutionize Your Worklife"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empower productivity and achieve work-life harmony with our innovative solutions tailored for modern professionals.",
+        "title": "Revolutionize Your Worklife"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Worklife",
+  "subtitle": "Empower productivity and achieve work-life harmony with our innovative solutions tailored for modern professionals."
+}
